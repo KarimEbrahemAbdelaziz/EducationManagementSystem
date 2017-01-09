@@ -12,7 +12,7 @@ Features:
   - More to be add Soon.
   
 Issues :
-  - Can't write data to file. ( data written in files cause problems so it's works only in the data in files write now, i'll give more time to solve it )
+  - Can't write data to file. ( data written in files cause problems so it's works only in the data in files now, i'll give more time to solve it )
   - Not commented code.
   - Bad structure and code formate.
 
