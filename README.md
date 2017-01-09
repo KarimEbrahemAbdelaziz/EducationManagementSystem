@@ -1,6 +1,6 @@
 # EducationManagementSystem
 Idea and structure of file was from my friend "Magdy Hasan" he wrote the system in c++ you can check it from here :
-  github.com/magdy-hasan/education-management-system
+  https://github.com/magdy-hasan/education-management-system , 
 I re-implemented it in Java for more practice on java and be familiar with java syntax.
 
 Features:
